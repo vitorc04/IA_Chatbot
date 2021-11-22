@@ -1,0 +1,11 @@
+{"intents":[
+  {"tag":  "cumprimentos",
+    "patterns": ["oi","ola","bom dia","boa tarde","boa noite"],
+    "responses": ["Ola!", "O que posso fazer por você?"]
+  },
+
+  {"tag":  "tempo",
+    "patterns": ["tempo"],
+    "responses": ["O tempo está bom hoje!"]
+  }
+]}
